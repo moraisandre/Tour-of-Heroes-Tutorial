@@ -9,8 +9,8 @@ branches:
     - master
 
 before_script:
+  - rm -rf package-lock.json node_modules && npm install
   - npm install -g @angular/cli
 
 script:
-  - npm install
   - ng build --env=prod
