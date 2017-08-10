@@ -1,5 +1,5 @@
 # Tour-of-Heroes-Tutorial
 
-https://travis-ci.org/moraisandre/Tour-of-Heroes-Tutorial.svg?branch=master
+[![Build Status](https://travis-ci.org/moraisandre/Tour-of-Heroes-Tutorial.svg?branch=master)](https://travis-ci.org/moraisandre/Tour-of-Heroes-Tutorial)
 
 Tutorial: Tour of Heroes - Angular 4
